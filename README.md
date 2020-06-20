@@ -4,7 +4,7 @@ Automate steps for certificate creation or renewal for apple push notification s
 
 ### Rough description of tasks:
 1. Create a Certificate Signing Request to upload via apple portal and get it signed
-1. Download the certificate and convert it so it becomes usable by [here](https://github.com/mattermost/mattermost-push-proxy)
+1. Download the certificate and convert it so it becomes usable by [mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy)
 
 ### Result:
 2 scripts, 2 manual steps: 
